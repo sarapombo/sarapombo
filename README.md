@@ -1,4 +1,4 @@
-## Hi, I'm Sara 👋
+## Hi, I'm Sara 🌸
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarapombo&layout=compact&card_width=360" alt="Top Languages" />
 
