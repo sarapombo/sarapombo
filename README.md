@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi, I'm Sara 👋
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarapombo&layout=compact&card_width=360" alt="Top Languages" />
+
 
 <!--
 **sarapombo/sarapombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=sarapombo&layout=compact&card_width=360
 
 Here are some ideas to get you started:
 
